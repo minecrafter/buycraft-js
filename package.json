@@ -1,11 +1,20 @@
 {
   "name": "buycraft-js",
   "version": "0.0.1",
-  "description": "",
+  "description": "This is a simple wrapper for the [new Buycraft API](https://blog.buycraft.net/introducing-the-public-beta-of-the-new-bukkit-plugin/).",
   "main": "./lib/index.js",
   "author": "Tux <write@imaginarycode.com>",
   "license": "MIT",
   "dependencies": {
     "superagent": "^1.8.0-beta.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minecrafter/buycraft-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minecrafter/buycraft-js/issues"
+  },
+  "homepage": "https://github.com/minecrafter/buycraft-js#readme"
 }
