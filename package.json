@@ -1,0 +1,11 @@
+{
+  "name": "buycraft-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "author": "Tux <write@imaginarycode.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.8.0-beta.2"
+  }
+}
